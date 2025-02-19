@@ -1,0 +1,7 @@
+(=(square $x) (* $x $x))
+(=(cube $x) (* $x $x $x))
+(=(add $x $y) (+ $x $y))
+(=(sub $x $y) (- $x $y))
+(=(mul $x $y) (* $x $y))
+(=(div $x $y) (/ $x $y))
+(=(mod $x $y) (% $x $y))
